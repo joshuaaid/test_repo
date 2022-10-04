@@ -1,3 +1,3 @@
 print("test")
-print("Kanna")
-print("Calismayi sever")
+print("Hello world")
+print("test")
